@@ -13,7 +13,5 @@ _start:
   mov $0, %rdi
   syscall 
 
-
-
 message:
   .ascii "Hello, World!\n"
