@@ -14,7 +14,7 @@ Is a simple REST API example in JavaScript. A couple of tests are provided, in P
 
 ## Q&A topics
 
-Issues are used as a forum for proposing and voting on the topics of the meetups. If you'd like to discuss a topic, please create an issue and put the _Q&A_ label on it.
+Discussions are used as the forum for proposing, discussing, and voting on the topics for Q&As. If you cant find a topic you are interested in, you can sugget it by starting a new _Q&A_ discussion.
 
 When proposing a topic, remember:
 
